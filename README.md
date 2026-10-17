@@ -6,6 +6,11 @@ It has a GUI and you can play Sudoku puzzles with custom difficulty.
 - GCC compiler 
 - Windows operating system
 
+# Features
+- Custom levels according to your capability 
+- click an empty cell then use keyboard or buttons on the screen to enter the number.
+- The game features 3 hints for you to use when you get stuck.
+- the GUI is super clean and modren with live score/mistakes tracking and cell highlighting.
 
 # How to run 
 ```
