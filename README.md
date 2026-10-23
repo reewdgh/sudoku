@@ -29,3 +29,6 @@ If you don't have make installed run this
 ![Screenshots](sudoku/images/demo2.PNG)
 
 ![Screenshots](sudoku/images/image.png)
+
+![Screenshots](sudoku/images/image.png)
+
