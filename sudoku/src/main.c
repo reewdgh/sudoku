@@ -184,7 +184,7 @@ int main(void)
     class.hInstance = hInstance;
     class.hbrBackground = (HBRUSH)(COLOR_WINDOW + 1);
     class.hCursor = LoadCursor(NULL, IDC_ARROW);
-    startPoint = (int)(100.0 / DEFAULT_WIDTH * GetSystemMetrics(SM_CXSCREEN));
+    startPoint = (int)(DEFAULT_START_POINT / DEFAULT_WIDTH * GetSystemMetrics(SM_CXSCREEN));
 
     RegisterClass(&class);
     HWND hwnd = CreateWindowEx(0, classTitle, "Sudoku",
