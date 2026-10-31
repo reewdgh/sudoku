@@ -1,3 +1,6 @@
+
+
+
 #  Sudoku
 This is a basic beginner Sudoku project made with the C language using Windows API. It
 It has a GUI and you can play Sudoku puzzles with custom difficulty.
@@ -21,12 +24,9 @@ If you don't have make installed run this
 ```
 ./main.exe
 ```
-# Demo Screenshots 
+# Demo Vidoe
 
-
-![Screenshots](sudoku/images/demo.png)
-
-![Screenshots](sudoku/images/demo2.PNG)
+https://github.com/user-attachments/assets/76f1527f-6b19-432b-a70d-6de69dd976cb
 
 
 
